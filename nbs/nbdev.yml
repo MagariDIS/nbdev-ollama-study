@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-ollama-study"
+  site-url: "https://MagariDIS.github.io/nbdev-ollama-study"
+  description: "ollama local LLM study"
+  repo-branch: main
+  repo-url: "https://github.com/MagariDIS/nbdev-ollama-study"
